@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D78CC7B2-BCB2-4F61-A363-195E9B340262}") = "Levitation_AR", "Assembly-CSharp.csproj", "{ABA3F25E-1443-B9EA-66C0-5BF9DE2F6E42}"
+EndProject
+Project("{D78CC7B2-BCB2-4F61-A363-195E9B340262}") = "Levitation_AR", "Assembly-CSharp-Editor.csproj", "{5B43C149-DA4D-3E67-65C1-24C94957B6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA3F25E-1443-B9EA-66C0-5BF9DE2F6E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA3F25E-1443-B9EA-66C0-5BF9DE2F6E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA3F25E-1443-B9EA-66C0-5BF9DE2F6E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA3F25E-1443-B9EA-66C0-5BF9DE2F6E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B43C149-DA4D-3E67-65C1-24C94957B6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B43C149-DA4D-3E67-65C1-24C94957B6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B43C149-DA4D-3E67-65C1-24C94957B6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B43C149-DA4D-3E67-65C1-24C94957B6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
